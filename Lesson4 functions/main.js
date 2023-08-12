@@ -33,7 +33,7 @@ console.log(array);
 
 
 function userBuilder(name, age) {
-    let user = {name: name, age: age} // todo
+    let user = {name: name, age: age}
     return {
         getInfo: function () {
             return `name ${user.name} age - ${user.age}`

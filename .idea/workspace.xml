@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3042946-6f1c-49ed-a62d-7e867a62ae47" name="Changes" comment="hw 3 added">
-      <change afterPath="$PROJECT_DIR$/Hw4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4 functions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4 functions/main.js" afterDir="false" />
+    <list default="true" id="b3042946-6f1c-49ed-a62d-7e867a62ae47" name="Changes" comment="hw 4 added">
+      <change afterPath="$PROJECT_DIR$/Hw5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hw5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5 arrow func/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5 arrow func/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2 arrays objects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2 arrays objects/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3 loops/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3 loops/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4 functions/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4 functions/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hw5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +68,9 @@
       <workItem from="1690033475541" duration="4315000" />
       <workItem from="1690307849773" duration="1725000" />
       <workItem from="1690873002085" duration="1134000" />
-      <workItem from="1691408092680" duration="8888000" />
+      <workItem from="1691408092680" duration="9148000" />
+      <workItem from="1691478905414" duration="2392000" />
+      <workItem from="1691643087669" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1686839306903</created>
@@ -117,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690353461231</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hw 4 added">
+      <created>1691432922358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691432922358</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +149,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="hw 2 added" />
     <MESSAGE value="hw 3 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 3 added" />
+    <MESSAGE value="hw 4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 4 added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
